@@ -291,7 +291,7 @@ QA  기간: 2025.05.17 ~ 2025.05.22 <br />
 ## 👷 기타 산출물
 
 
-[포팅 메뉴얼 보러가기](exec/scenario/PortingManual.md)
+[포팅 메뉴얼 보러가기](exec/PortingManual.md)
 
 [중간 발표회 PPT 보러가기](exec/scenario/S108_S-PAT_중간발표회PPT.pptx)
 
